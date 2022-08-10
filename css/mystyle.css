@@ -1,0 +1,18 @@
+.jaat{
+    background-color: aqua;
+    border-radius: 25px;
+    padding: 4px 8px 4px 8px;
+}
+.intro
+img{
+    border-radius: 15%;
+    height: 200px;
+}
+.topbox{
+    position: fixed;
+}
+.kamal{
+     background-color: palevioletred;
+     border-radius: 25px;
+    padding: 5px 10px 5px 10px ;
+}
